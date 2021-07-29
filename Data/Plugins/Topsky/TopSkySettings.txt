@@ -83,6 +83,10 @@ Label_DAPs=1
 Menu_DAPs=1
 System_RawVideo=0
 
+/Areas
+Areas_Label_Levels=1
+Areas_Altitude_Filtering=1
+
 /AIW
 AIW=1
 AIW_Type=0
@@ -101,6 +105,19 @@ SAP_RAM=1
 SAP_Risks=1
 SAP_Risks_Window=1
 SAP_Risks_Label=1
+
+/APW
+APW=1
+APW_VFR=1
+APW_Uncorrelated=0
+APW_AlertSound=1
+APW_Filter=1
+APW_Buffer_Lat_L_IFR=5
+APW_Buffer_Lat_L_VFR=3
+APW_Buffer_Vert_U=1000
+APW_Buffer_Vert_L_IFR=1000
+APW_Buffer_Vert_L_VFR=1000
+APW_ConflictCount=3
 
 /RDF
 RDF_Mode=2
@@ -124,6 +141,9 @@ Label_AHDG_ShowExtra=1
 Label_CFL_DefaultValue=1
 Label_SI_ShowFreq=1
 Label_SI_FreqTime=1
+
+/Lists
+List_Holding_Plugin=1
 
 /MTCD
 MTCD=1
