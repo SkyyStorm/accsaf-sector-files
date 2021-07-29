@@ -1,0 +1,7 @@
+Johannesburg Radar
+O R Tambo SMR
+Johannesburg Combined
+    Include:
+        O R Tambo SMR
+        Lanseria SMR
+        Johannesburg Radar
