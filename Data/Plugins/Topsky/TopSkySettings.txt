@@ -62,9 +62,9 @@ Color_Heading_Vector=206,155,49
 Color_WM_Frame=255,255,255
 
 /WEATHER RADAR *Rainview API does not cover airspace
-WXR_Brightness=100
-WXR_Gain=100
-WXR_Zoom=2
+/WXR_Brightness=100
+/WXR_Gain=100
+/WXR_Zoom=2
 /WXR_Latitude=-28
 /WXR_Latitude_Max=-20
 /WXR_Latitude_Min=-37
@@ -89,6 +89,19 @@ AIW_Type=0
 AIW_FlightRules=1
 AIW_PredictionTime=1
 
+/MCTD & SAP PERFORMANCE
+FPCP_PredictionTime=3
+FPCP_MinState=1
+FPCP_4D=1
+FPCP_4D_PathBuffer=1000
+
+/SAP
+SAP=1
+SAP_RAM=1
+SAP_Risks=1
+SAP_Risks_Window=1
+SAP_Risks_Label=1
+
 /RDF
 RDF_Mode=2
 RDF_Floor=0
@@ -109,6 +122,8 @@ Label_ADES_MaxChars=2
 Label_AHDG_Point_Label=2
 Label_AHDG_ShowExtra=1
 Label_CFL_DefaultValue=1
+Label_SI_ShowFreq=1
+Label_SI_FreqTime=1
 
 /MTCD
 MTCD=1
