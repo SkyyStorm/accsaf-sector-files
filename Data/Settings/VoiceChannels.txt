@@ -1,0 +1,102 @@
+VOICE
+AG:FABE_TWR Bhisho Tower:120.600
+AG:FABL_APP Bloemfontein Approach:124.300
+AG:FABL_TWR Bloemfontein Tower:120.800
+AG:FABW_I_TWR Karoo Radio:125.600
+AG:FACA_CTR Cape Town Area:125.100
+AG:FACA_E_CTR Cape Town Area:124.700
+AG:FACA_I_CTR Cape Town Info EAST:131.125
+AG:FACA_J_CTR Cape Town Info WEST:131.125
+AG:FACT_APP Cape Town Radar:119.700
+AG:FACT_ATIS:127.000
+AG:FACT_DEL Cape Town Clearence:122.100
+AG:FACT_F_APP Cape Town Director:124.350
+AG:FACT_GND Cape Town Ground:121.900
+AG:FACT_I_APP Cape Town EAST Radio:124.800
+AG:FACT_J_APP Cape Town WEST Radio:125.800
+AG:FACT_TWR Cape Town Tower:118.100
+AG:FACT_V_APP Cape Town Radio:135.000
+AG:FADN_APP Durban Approach:119.100
+AG:FADN_ATIS:127.000
+AG:FADN_GND Durban Ground:122.650
+AG:FADN_TWR Durban Tower:118.700
+AG:FAEL_APP East London Approach:120.100
+AG:FAEL_ATIS:126.650
+AG:FAEL_GND East London Apron:122.650
+AG:FAEL_I_APP East London Radio:125.200
+AG:FAEL_TWR East London Tower:118.300
+AG:FAFK_TWR Fisantekraal Tower:131.100
+AG:FAGC_TWR Grand Central Tower:122.850
+AG:FAGG_APP George Approach:128.200
+AG:FAGG_ATIS:126.220
+AG:FAGG_GND George Apron:122.650
+AG:FAGG_I_APP George Radio EAST:124.800
+AG:FAGG_J_APP George Radio WEST:124.200
+AG:FAGG_TWR George Tower:118.900
+AG:FAGM_TWR Rand Tower:118.700
+AG:FAHS_APP Hoedspruit Approach:126.400
+AG:FAHS_I_CTR Lowveld Info:119.000
+AG:FAHS_TWR Hoedspruit Tower:119.600
+AG:FAJA_CTR Johannesburg Area:128.300
+AG:FAJA_C_CTR Johannesburg CENTRAL:120.300
+AG:FAJA_E_CTR Johannesburg EAST:129.100
+AG:FAJA_I_CTR Johannesburg Info SOUTH:119.500
+AG:FAJA_J_CTR Johannesburg Info NORTH:127.400
+AG:FAJA_N_CTR Johannesburg NORTH:126.700
+AG:FAJA_W_CTR Johannesburg WEST:118.500
+AG:FAKM_APP Kimberly Approach:119.400
+AG:FAKM_TWR Kimberly Tower:118.200
+AG:FAKN_APP Kruger Approach:119.200
+AG:FAKN_I_APP Kruger Radio:130.350
+AG:FALA_ATIS:127.650
+AG:FALA_TWR Lanseria Tower:124.000
+AG:FALE_APP Durban Approach:125.750
+AG:FALE_ATIS:127.000
+AG:FALE_GND King Shaka Ground:121.650
+AG:FALE_I_APP Durban Radio:124.200
+AG:FALE_TWR King Shaka Tower:118.450
+AG:FALM_APP Makhado Approach:121.200
+AG:FALM_TWR Makhado Tower:119.800
+AG:FALW_GND Langebaanweg Ground:121.750
+AG:FALW_TWR Langebaan Tower:128.800
+AG:FAMM_TWR Mafikeng Tower:119.300
+AG:FAOB_APP Overberg Approach:119.800
+AG:FAOH_I_TWR Oudshoorn Radio:131.100
+AG:FAOR_APP Johannesburg Radar:124.500
+AG:FAOR_ATIS:126.200
+AG:FAOR_A_GND OR Tambo Apron:122.650
+AG:FAOR_DEL OR Tambo Clearance Delivery:121.700
+AG:FAOR_F_APP Johannesburg Director:121.400
+AG:FAOR_GND OR Tambo Ground:121.900
+AG:FAOR_I_APP Johannesburg EAST Radio:125.400
+AG:FAOR_J_APP Johannesburg WEST Radio:125.800
+AG:FAOR_K_APP Johannesburg SOUTH Radio:125.600
+AG:FAOR_N_APP Johannesburg Radar:134.400
+AG:FAOR_TWR OR Tambo Tower:118.100
+AG:FAOR_V_APP Johannesburg Radio:135.000
+AG:FAOR_W_APP Johannesburg WEST Radar:123.700
+AG:FAPA_I_TWR Port Alfred Radio:122.000
+AG:FAPE_APP Port Elizabeth Approach:120.400
+AG:FAPE_ATIS:126.800
+AG:FAPE_GND Port Elizabeth Clearance:122.100
+AG:FAPE_TWR Port Elizabeth Tower:118.100
+AG:FAPM_TWR Pietermaritzburg Tower:122.000
+AG:FAPN_TWR Pilanesberg Tower:118.400
+AG:FAPP_TWR Polokwane:119.750
+AG:FARB_TWR Richards Bay Tower:118.900
+AG:FASK_TWR Swartkop Tower:123.200
+AG:FASZ_I_TWR Skukuza Radio:119.000
+AG:FAUP_TWR Upington Tower:121.300
+AG:FAUT_TWR Mthatha Tower:121.300
+AG:FAVG_TWR Virgina Tower:120.600
+AG:FAWB_GND Wonderboom Ground:120.600
+AG:FAWB_TWR Wonderboom Tower:118.350
+AG:FAWK_TWR Waterkloof Tower:124.100
+AG:FAYP_TWR Ysterplaat Tower:125.600
+AG:FDMS_TWR Matsapha Tower:118.300
+AG:FDSK_APP Sikhuphe Approach:128.000
+AG:FDSK_TWR Sikhuphe Tower:118.550
+AG:FXMM_APP Maseru Approach:120.700
+AG:FXMM_TWR Maseru Tower:118.500
+AG:FAOR_W_TWR:118.600
+END
