@@ -1,39 +1,39 @@
-; GENERAL SETUP
+/GENERAL SETUP
 Setup_COOPANS=0
 
-; UI SCALING
-; Credit to Liam Pickering for these settings!
+/UI SCALING
+/Credit to Liam Pickering for these settings!
 
-//Global Scaling
+/Global Scaling
 System_GUI_Scale_GlobalMenu=1
 
-//Radar Menu Scaling
+/Radar Menu Scaling
 System_GUI_Scale_Menus=1
 
-//Route Vector
+/Route Vector
 System_GUI_Scale_Screen=1
 
-//Radar Targets
+/Radar Targets
 System_GUI_Scale_Tracks=1
 
-//Normal Windows
+/Normal Windows
 System_GUI_Scale_Windows=1
 
-; AUTO RWY APP LINES
+/AUTO RWY APP LINES
 RwyAppLines_Auto=0
 RwyAppLines_Length=1
 RwyAppLines_Markers=3
 RwyAppLines_MarkerSpacing=5
 Color_Rwy_App_Line_Inuse=110,110,110
 
-; TAG SETUP
+/TAG SETUP
 Label_All_CRC=1
 Label_All_NATYP=1
 Label_All_WTC=1
 Label_All_GS=1
 Label_All_N=1
 
-; TAG COLORS
+/TAG COLORS
 Color_Unconcerned=100,100,100 
 Color_Concerned=180,180,180
 Color_Coordination=72,144,231
@@ -46,7 +46,7 @@ Color_Informed_3=229,173,18
 Color_Flight_Highlight=30,30,30
 Color_Field_Highlight=49,49,49
 
-; MENU COLORS
+/MENU COLORS
 Color_Active_Text_Map=255,255,255
 Color_Background=37,37,37
 Color_Foreground=220,220,220
@@ -61,18 +61,18 @@ Color_Suite_Highlight=72,144,231
 Color_Heading_Vector=206,155,49
 Color_WM_Frame=255,255,255
 
-; WEATHER RADAR
+/WEATHER RADAR
 WXR_Brightness=100
 WXR_Gain=100
 WXR_Zoom=2
 WXR_Latitude=-28
-//WXR_Latitude_Max=-37
-//WXR_Latitude_Min=-21
-//WXR_Longitude=24
-//WXR_Longitude_Max=35
-//WXR_Longitude_Min=14
+WXR_Latitude_Max=-37
+WXR_Latitude_Min=-21
+WXR_Longitude=24
+WXR_Longitude_Max=35
+WXR_Longitude_Min=14
 
-; AIRSPACE
+/AIRSPACE
 Airspace_SIGMET_Areas=FAJA,FACA
 Airspace_ASSR_StartCode=4100
 Airspace_ASSR_EndCode=4137
