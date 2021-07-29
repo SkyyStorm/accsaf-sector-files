@@ -116,6 +116,14 @@ MTCD_AHDG=0
 MTCD_RAM=0
 MTCD_Risks_Label=1
 
+/MSAW
+MSAW=1
+MSAW_Filter=2
+MSAW_Uncorrelated=0
+MSAW_VFR=0
+MSAW_PredictionTime=45
+MSAW_UseCFL=0
+
 /Shortcuts
 Shortcut_Master=1
 
