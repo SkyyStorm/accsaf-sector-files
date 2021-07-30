@@ -1,14 +1,31 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORFILE:H:\FASA\FASA-Package_20210616131928-210501-0001.sct
+SECTORTITLE:FASA-Package_20210616131928-210501-0001.sct
+ARTCC boundary:FACT-TMA:
 ARTCC boundary:FACT-TMA:
 ARTCC boundary:FAEL-TMA:
+ARTCC boundary:FAEL-TMA:
+ARTCC boundary:FAGG-TMA:
+ARTCC boundary:FAHS-TMA:
+ARTCC boundary:FAKM-TMA:
+ARTCC boundary:FAKN-TMA:
 ARTCC boundary:FAKN-TMA:
 ARTCC boundary:FALA-TMA:
+ARTCC boundary:FALA-TMA:
+ARTCC boundary:FALE-TMA:
+ARTCC boundary:FALM-TMA:
+ARTCC boundary:FALW-CTR:
 ARTCC boundary:FALW-CTR:
 ARTCC boundary:FAOB-TMA:
+ARTCC boundary:FAOB-TMA:
 ARTCC boundary:FAOR-TMA:
+ARTCC boundary:FAOR-TMA:
+ARTCC boundary:FAPE-TMA:
 ARTCC boundary:FAPP-TMA:
+ARTCC boundary:FAPP-TMA:
+ARTCC boundary:FAWK-TMA:
 ARTCC boundary:FAWK-TMA:
 ARTCC boundary:TMA FACT:
 ARTCC boundary:TMA FAEL:
@@ -17,29 +34,14 @@ ARTCC boundary:TMA FAKN:
 ARTCC boundary:TMA FALE:
 ARTCC boundary:TMA FAPE:
 ARTCC high boundary:Airspace C FABL:
-ARTCC high boundary:Airspace C FAOR:
-ARTCC high boundary:FACA-ALL:
-ARTCC high boundary:FACA-E:ARTCC boundary:FABL-TMA:
-ARTCC boundary:FACT-TMA:
-ARTCC boundary:FAEL-TMA:
-ARTCC boundary:FAGG-TMA:
-ARTCC boundary:FAHS-TMA:
-ARTCC boundary:FAKM-TMA:
-ARTCC boundary:FAKN-TMA:
-ARTCC boundary:FALA-TMA:
-ARTCC boundary:FALE-TMA:
-ARTCC boundary:FALM-TMA:
-ARTCC boundary:FALW-CTR:
-ARTCC boundary:FAOB-TMA:
-ARTCC boundary:FAOR-TMA:
-ARTCC boundary:FAPE-TMA:
-ARTCC boundary:FAPP-TMA:
-ARTCC boundary:FAWK-TMA:
 ARTCC high boundary:Airspace C FABL CTA:
 ARTCC high boundary:Airspace C FACT CTA:
+ARTCC high boundary:Airspace C FAOR:
 ARTCC high boundary:Airspace C FAOR CTA:
 ARTCC high boundary:FACA-ALL:
+ARTCC high boundary:FACA-ALL:
 ARTCC high boundary:FACA-E:
+ARTCC high boundary:FACA-E:ARTCC boundary
 ARTCC high boundary:FACA-W:
 ARTCC high boundary:FAJA-ALL:
 ARTCC high boundary:FAJA-C:
@@ -902,6 +904,9 @@ Free Text:FAWK Taxiways\F:freetext
 Free Text:FAYP Taxiways\A:freetext
 Free Text:FAYP Taxiways\B:freetext
 Free Text:FAYP Taxiways\C:freetext
+Geo:FA Landmark Coast NE:
+Geo:FA Landmark Coast NW:
+Geo:FA Landmark Coast S:
 Geo:FAAE Groundlayout:
 Geo:FAAF Groundlayout:
 Geo:FABD Groundlayout:
@@ -943,9 +948,6 @@ Geo:FARB Groundlayout:
 Geo:FARI Groundlayout:
 Geo:FASA FIR border Lesotho:
 Geo:FASA FIR border Swaziland:
-Geo:FA Landmark Coast NE:
-Geo:FA Landmark Coast NW:
-Geo:FA Landmark Coast S:
 Geo:FASC Groundlayout:
 Geo:FASH Groundlayout:
 Geo:FASY Groundlayout:
@@ -2472,5 +2474,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-39.686683:7.578770:-16.846726:56.341450
+WINDOWAREA:-34.911686:23.016880:-31.725705:29.561697
