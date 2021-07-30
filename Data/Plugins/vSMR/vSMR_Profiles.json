@@ -12,8 +12,8 @@
         }
     },
     "filters": {
-        "hide_above_alt": 5600,
-        "hide_above_spd": 250,
+        "hide_above_alt": 14500,
+        "hide_above_spd": 300,
         "radar_range_nm": 30,
         "night_alpha_setting": 110,
         "pro_mode": {
@@ -161,7 +161,7 @@
     "rimcas": {
         "rimcas_label_only": true,
         "use_red_symbol_for_emergencies": true,
-        "timer": [60, 45, 30, 15, 0],
+        "timer": [120,60, 45, 30, 15, 0],
         "timer_lvp": [120, 90, 60, 30, 0],
         "rimcas_stage_two_speed_threshold": 25,
         "background_color_stage_one": {
@@ -243,8 +243,8 @@
         }
     },
     "filters": {
-        "hide_above_alt": 10000,
-        "hide_above_spd": 250,
+        "hide_above_alt": 14500,
+        "hide_above_spd": 300,
         "radar_range_nm": 30,
         "night_alpha_setting": 110,
         "pro_mode": {
@@ -286,7 +286,8 @@
         },
         "departure": {
             "definition": [
-                ["callsign", "groundstatus"]
+                ["callsign", "groundstatus"],
+                ["wake","ssid"]
             ],
             "background_color": {
                 "r": 33,
@@ -392,7 +393,7 @@
     "rimcas": {
         "rimcas_label_only": true,
         "use_red_symbol_for_emergencies": true,
-        "timer": [60, 45, 30, 15, 0],
+        "timer": [120, 60, 45, 30, 15, 0],
         "timer_lvp": [120, 90, 60, 30, 0],
         "rimcas_stage_two_speed_threshold": 25,
         "background_color_stage_one": {
