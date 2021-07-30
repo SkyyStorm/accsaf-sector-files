@@ -92,6 +92,8 @@ AIW=1
 AIW_Type=0
 AIW_FlightRules=1
 AIW_PredictionTime=1
+AIW_Inhibit_ActiveAreas=1
+
 
 /MCTD & SAP PERFORMANCE
 FPCP_PredictionTime=3
