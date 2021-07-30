@@ -5,10 +5,10 @@ Setup_COOPANS=0
 /Credit to Liam Pickering for these settings!
 
 /Global Scaling
-System_GUI_Scale_GlobalMenu=1
+System_GUI_Scale_GlobalMenu=0.95
 
 /Radar Menu Scaling
-System_GUI_Scale_Menus=1
+System_GUI_Scale_Menus=0.95
 
 /Route Vector
 System_GUI_Scale_Screen=1
