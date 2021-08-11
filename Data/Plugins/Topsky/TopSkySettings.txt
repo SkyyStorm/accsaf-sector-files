@@ -87,11 +87,11 @@ Areas_Label_Levels=1
 Areas_Altitude_Filtering=1
 
 /AIW
-AIW=1
-AIW_Type=0
-AIW_FlightRules=1
-AIW_PredictionTime=1
-AIW_Inhibit_ActiveAreas=1
+/AIW=1
+/AIW_Type=0
+/AIW_FlightRules=1
+/AIW_PredictionTime=1
+/AIW_Inhibit_ActiveAreas=1
 
 
 /MCTD & SAP PERFORMANCE
@@ -129,7 +129,7 @@ Color_Standard_Line_RDF=72,144,231
 FlightLeg_Label_Time=0
 FlightLeg_Label_Point=1
 FlightLeg_Label_DIST=1
-FlightLeg_Label_SCFL=0
+FlightLeg_Label_SCFL=1
 FlightLeg_Label_RFL=0
 FlightLeg_AutoShow=1
 FlightLeg_AssumeTime=2
@@ -143,6 +143,10 @@ Label_CFL_DefaultValue=1
 Label_SI_ShowFreq=1
 Label_SI_FreqTime=1
 Label_AFL_Buffer=300
+
+/Menus
+Menu_MaxListItems=18
+
 
 /Lists
 List_Holding_Plugin=1
@@ -175,9 +179,6 @@ Shortcut_XQDM_Combo=0x00A2
 Shortcut_SEP=0x53
 Shortcut_SEP_Combo=0x00A2
 /Left ALT+S = Draw minimum seperation tool 
-
-/Menus
-Menu_MaxListItems=18
 
 /STCA
 STCA=1

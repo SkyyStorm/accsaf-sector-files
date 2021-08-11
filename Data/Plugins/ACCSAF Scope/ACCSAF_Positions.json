@@ -38,7 +38,7 @@
     { "callsign": "FAHS_APP", "name": "Hoedspruit Approach" },
     { "callsign": "FAHS_I_CTR", "name": "Lowveld Info" },
     { "callsign": "FAHS_TWR", "name": "Hoedspruit Tower" },
-    { "callsign": "FAJA_CTR", "name": "Johannesburg Area Bandbox" },
+    { "callsign": "FAJA_CTR", "name": "Johannesburg Area" },
     { "callsign": "FAJA_C_CTR", "name": "Johannesburg Area Central" },
     { "callsign": "FAJA_E_CTR", "name": "Johannesburg Area East" },
     { "callsign": "FAJA_S_CTR", "name": "Johannesburg Area South" },
