@@ -45,6 +45,12 @@
 .rd Radar Identified on departure, Climb FL$
 .rs Radar Identified on the transponder code $squawk Climb FL$
 
+.ev Expect vectors for the $1 approach runway $arrrwy($arr)
+.lr Landing runway $arrrwy($arr)
+.cils Cleared ILS approach runway $arrrwy($arr)
+.cva Cleared visual approach runway $arrrwy($arr)
+.rel Report established on the localiser runway $arrrwy($arr)
+
 ;*** Taxi ***
 .taxi Taxi $1 hold short of $2. QNH $altim($dep).
 .taxiv Taxi via $1, hold short at $2. QNH $altim($dep).
@@ -68,5 +74,54 @@
 .pm Pass your message.
 .v Can you receive voice?
 .to Cleared for takeoff Runway $deprwy($dep), surface wind $wind($dep).
-.uni No further ATC available; monitor unicom, 122.800.
+
+;***Handoffs***
+
+.ho Contact $radioname($1) ($atccallsign($1)) $freq($1)
+.ct Contact $radioname($1) $freq($1) ($atccallsign($1))
+.cso Contact $radioname($1) $freq($1) ($atccallsign($1)) callsign only
+.rh Report your heading to $radioname($1) ($atccallsign($1)) $freq($1)
+.rs Report your speed to $radioname($1) ($atccallsign($1)) $freq($1)
+.rhs Report your heading and speed to $radioname($1) ($atccallsign($1)) $freq($1)
+.mon Monitor $radioname($1) ($atccallsign($1)) $freq($1)
+
+.uni No Further ATC available. Monitor Unicom 122.800
+.oma You are currently outside my airspace. Monitor Unicom 122.800.
+.nso $1 is offline - monitor unicom 122.800
+
+;***Lateral***
+.lh Leave $1 heading $2 degrees
+.tl Turn left heading $1 degrees
+.tr Turn right heading $1 degrees
+.fh Fly heading $1 degrees
+.cph Continue present heading
+.rd Route Direct $1
+
+;***Vertical***
+.cta Climb to altitude $1ft
+.cnta Climb now to altitude $1ft
+.cfl Climb FL$1
+.cnfl Climb now FL$1
+ 
+.dtaq Descend to altitude $1ft QNH $altim($arr)
+.dta Descend to altitude $1ft
+.dfl Descend FL$1
+.wrdfl When ready, descend FL$1
+.dfllb Descend FL$1 level by $2
+.wrdfllb When ready, descend FL$1 level by $2
+.efllb Expect FL$1 level by $2
+.dflla Descend FL$1 level abeam $2
+.ed Expedite descent
+.edtfl Expedite descent through FL$1
+.edta Expedite descent through altitude $1ft
+.ectfl Expedite climb through FL$1
+.ecta Expedite climb through altitude $1ft
+
+;***Speed Control***
+.s Speed $1 knots
+.m Mach $1
+.rias Report your indicated airspeed
+.s160 Speed 160 knots, maintain until 5DME.
+.s180 Speed 180 Knots, maintain unril 10DME.
+.sdme Speed $1 knots, maintain until $2DME.
 
