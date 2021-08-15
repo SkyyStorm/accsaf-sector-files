@@ -184,8 +184,9 @@ Shortcut_SEP_Combo=0x00A2
 STCA=1
 STCA_VFR=0
 STCA_Uncorrelated=0
+STCA_Filter=2
 STCA_AlertSound=1
-STCA_AlertSound_Filter=1
+STCA_AlertSound_Filter=2
 STCA_WakeTurbulenceType=0
 
 /Track Control
@@ -198,7 +199,7 @@ Vector_QDM_Label_Dir=1
 Vector_QDM_Label_Dir2=1
 
 /CPDLC
-CPDLC_Default=0
+CPDLC_Default=1
 CPDLC_MinLevel=195
 CPDLC_PlaySound=1
 CPDLC_CFL=1
