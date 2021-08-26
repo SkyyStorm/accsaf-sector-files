@@ -148,6 +148,7 @@ Label_AFL_Buffer=300
 
 /Menus
 Menu_MaxListItems=18
+List_Holding_MaxItems=18
 
 
 /Lists
@@ -199,13 +200,25 @@ Vector_AHDG_Label_Time=1
 Vector_QDM_MaxNumber=10
 Vector_QDM_Label_Dir=1
 Vector_QDM_Label_Dir2=1
+Vector_AHDG_Label_Dir=1
+
 
 /CPDLC
 CPDLC_Default=1
-CPDLC_MinLevel=195
+CPDLC_MinLevel=145
 CPDLC_PlaySound=1
 CPDLC_CFL=1
 CPDLC_DCT=1
 CPDLC_AHDG=1
 CPDLC_ASP=1
 CPDLC_Transfer=1
+Window_CPDLC_Current=1,485,43
+
+System_Coord_Sound_ROF=1
+System_Coord_Sound_ROF_RJC=1
+System_Coord_Sound_RTI=1
+System_Coord_Sound_RTI_ACP=1
+System_Coord_Sound_RTI_RJC=1
+System_Coord_Sound_TIP=1
+System_Coord_Sound_TIP_ACP=1
+System_Coord_Sound_TIP_RJC=1
