@@ -179,9 +179,6 @@ Shortcut_XQDM=0x58
 Shortcut_XQDM_Combo=0x00A2
 /Left CTRL+X = Clear all QDM
 
-Shortcut_SEP=0x53
-Shortcut_SEP_Combo=0x00A2
-/Left ALT+S = Draw minimum seperation tool 
 
 /STCA
 STCA=1
