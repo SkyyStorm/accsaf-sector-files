@@ -1,5 +1,6 @@
-[DCL]
-DCL:*:SID:<adep2> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep2> <callsign><endheader> CLRD TO <ades> OFF <drwy> VIA  <sid> ALT <cfl> SQUAWK <assr>. <qnh>HPA. <nfreq>. REPORT ACFT TYPE AND STAND NUMBER ON <freq> WHEN FULLY READY.
+[PDC]
+PDC:*:SID:<adep2> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep2> <callsign><endheader> CLRD TO <ades> OFF <drwy> VIA  <sid> ALT <cfl> SQUAWK <assr>. <qnh>HPA. <nfreq>. REPORT ACFT TYPE AND STAND NUMBER ON <freq> WHEN FULLY READY.
+PDC:*:AHDG:<adep2> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep2> <callsign><endheader> CLRD TO <ades> OFF <drwy> FLY RUNWAY HEADING. CLIMB TO <cfl> SQUAWK <assr>. <qnh>HPA. <nfreq>. REPORT ACFT TYPE AND STAND NUMBER ON <freq> WHEN FULLY READY.
 
 [FREETEXT]
 FREETEXT:R:SERVICE TERMINATED. MONITOR UNICOM 122.800
@@ -34,3 +35,6 @@ LOGIN:FAJV:JOHANNESBURG AREA:JSW
 LOGIN:FACA:CAPE TOWN AREA:CB
 LOGIN:FACW:CAPE TOWN AREA:CW
 LOGIN:FACE:CAPE TOWN AREA:CE
+
+//Africa South FSS
+LOGIN:AFRS:SOUTH AFRICA CONTROL:AFS
