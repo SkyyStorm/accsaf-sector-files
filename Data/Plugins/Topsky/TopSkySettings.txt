@@ -47,6 +47,7 @@ Color_Informed_2=229,173,18
 Color_Informed_3=229,173,18
 Color_Flight_Highlight=30,30,30
 Color_Field_Highlight=49,49,49
+Color_CPDLC_UM_Clearance=30,250,250
 
 /MENU COLORS
 Color_Active_Text_Map=255,255,255
