@@ -1,6 +1,0 @@
-System_Version=1
-System_LandingSpeed=144
-System_Default_Rate=180
-System_Default_Slot=3
-Label_Highlight_Type=1
-Label_DelayItem_ColorType=1
