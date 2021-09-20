@@ -1,2 +1,0 @@
-FASA_CTR_1 = minimual layout with airspace, app lines, airways
-FASA_CTR_2 = VOR, NDB, waypoints
