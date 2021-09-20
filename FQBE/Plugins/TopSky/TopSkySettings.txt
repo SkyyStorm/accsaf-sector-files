@@ -15,8 +15,6 @@ System_UseAcceptedCoordColor=1
 /Color_Sid_Star_Allocation=191,185,92
 /Color_Rwy_Locked=191,185,92
 
-
-
 /Radar Menu Scaling
 System_GUI_Scale_Menus=0.95
 
@@ -85,9 +83,9 @@ Color_WM_Frame=255,255,255
 /WXR_Longitude_Min=14
 
 /AIRSPACE
-Airspace_SIGMET_Areas=FAJA,FACA
-Airspace_ASSR_StartCode=4100
-Airspace_ASSR_EndCode=4137
+Airspace_SIGMET_Areas=FQBE
+Airspace_ASSR_StartCode=3300
+Airspace_ASSR_EndCode=3377
 Areas_PreActiveTime=300
 Maps_NOTAM_Activation=1
 Label_DAPs=1
