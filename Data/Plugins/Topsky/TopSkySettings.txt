@@ -6,6 +6,7 @@ Setup_COOPANS=0
 
 /Global Scaling
 System_GUI_Scale_GlobalMenu=0.95
+Setup_ScreenLat=FABL
 
 /Radar Menu Scaling
 System_GUI_Scale_Menus=0.95
@@ -150,6 +151,13 @@ Label_AFL_Buffer=300
 /Menus
 Menu_MaxListItems=18
 List_Holding_MaxItems=18
+System_UseAcceptedCoordColor=1
+System_UseRwyLockedColor=1
+System_UseSidStarAllocationColor=1
+System_UseSidStarNoAllocationColor=1
+Color_Sid_Star_Allocation=191,185,92
+Color_Rwy_Locked=191,185,92
+
 
 
 /Lists
