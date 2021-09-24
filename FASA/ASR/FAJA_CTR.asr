@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:H:\FASA\FASA-Package_20210616131928-210501-0001.sct
-SECTORTITLE:FASA-Package_20210616131928-210501-0001.sct
+SECTORFILE:C:\Users\jonat\Documents\EuroScope\ACCSAF NEW NEW NEW\FASA-Package_20210913201643-210901-0001.sct
+SECTORTITLE:FASA-Package_20210913201643-210901-0001.sct
 Airports:FABL:name
 Airports:FABL:symbol
 Airports:FAGC:name
@@ -32,10 +32,23 @@ ARTCC boundary:FAKN-TMA:
 ARTCC boundary:FALA-TMA:
 ARTCC boundary:FALE-TMA:
 ARTCC boundary:FAOR-TMA:
-ARTCC boundary:FAPP-TMA:
 ARTCC boundary:FAWK-TMA:
 ARTCC boundary:TMA FAKN Sectors:
 ARTCC boundary:TMA FALE Sectors:
+ARTCC high boundary:Airspace C FABL CTA:
+ARTCC high boundary:Airspace C FAOR CTA:
+ARTCC high boundary:FACA-ALL:
+ARTCC high boundary:FACA-E:
+ARTCC high boundary:FAJA-C:
+ARTCC high boundary:FAJA-E:
+ARTCC high boundary:FAJA-N:
+ARTCC high boundary:FAJA-NE:
+ARTCC high boundary:FAJA-SW:
+ARTCC high boundary:FAJA-W:
+ARTCC high boundary:FAJO:
+ARTCC high boundary:FBGR:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FYWH:
 ARTCC low boundary:FABL-CTR:
 ARTCC low boundary:FAHS-CTR:
 ARTCC low boundary:FAKM-CTR:
@@ -188,13 +201,17 @@ Fixes:XAVMU:name
 Fixes:XAVMU:symbol
 Fixes:XORER:name
 Fixes:XORER:symbol
+Free Text:FAKN Terrain\4500ft:freetext
+Free Text:FAKN Terrain\5000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
+Free Text:FAKN Terrain\6000ft:freetext
 Geo:FA Landmark Coast NE:
 Geo:FA Landmark Coast NW:
-Geo:FAJA Landmark Dams:
-Geo:FAJA Landmark Lakes (AP):
-Geo:FASA FIR border Lesotho:
-Geo:FASA FIR border RSA:
-Geo:FASA FIR border Swaziland:
+Geo:FA Landmark Coast S:
 Geo:GEO:
 NDBs:WB:frequency
 NDBs:WB:name
@@ -204,22 +221,13 @@ Runways:FAOR 03L-21R:extended centerline 1
 Runways:FAOR 03L-21R:extended centerline 1 left base
 Runways:FAOR 03L-21R:extended centerline 1 left ticks
 Runways:FAOR 03L-21R:extended centerline 1 left vectoring
-Runways:FAOR 03L-21R:extended centerline 1 right base
-Runways:FAOR 03L-21R:extended centerline 1 right ticks
-Runways:FAOR 03L-21R:extended centerline 1 right vectoring
 Runways:FAOR 03L-21R:extended centerline 2
-Runways:FAOR 03L-21R:extended centerline 2 left base
-Runways:FAOR 03L-21R:extended centerline 2 left ticks
-Runways:FAOR 03L-21R:extended centerline 2 left vectoring
 Runways:FAOR 03L-21R:extended centerline 2 right base
 Runways:FAOR 03L-21R:extended centerline 2 right ticks
 Runways:FAOR 03L-21R:extended centerline 2 right vectoring
 Runways:FAOR 03L-21R:name
 Runways:FAOR 03R-21L:centerline
 Runways:FAOR 03R-21L:extended centerline 1
-Runways:FAOR 03R-21L:extended centerline 1 left base
-Runways:FAOR 03R-21L:extended centerline 1 left ticks
-Runways:FAOR 03R-21L:extended centerline 1 left vectoring
 Runways:FAOR 03R-21L:extended centerline 1 right base
 Runways:FAOR 03R-21L:extended centerline 1 right ticks
 Runways:FAOR 03R-21L:extended centerline 1 right vectoring
@@ -227,9 +235,6 @@ Runways:FAOR 03R-21L:extended centerline 2
 Runways:FAOR 03R-21L:extended centerline 2 left base
 Runways:FAOR 03R-21L:extended centerline 2 left ticks
 Runways:FAOR 03R-21L:extended centerline 2 left vectoring
-Runways:FAOR 03R-21L:extended centerline 2 right base
-Runways:FAOR 03R-21L:extended centerline 2 right ticks
-Runways:FAOR 03R-21L:extended centerline 2 right vectoring
 Runways:FAOR 03R-21L:name
 VORs:GWV:frequency
 VORs:GWV:name
@@ -256,16 +261,16 @@ VORs:WKV:frequency
 VORs:WKV:name
 VORs:WKV:symbol
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:0
 ABOVE:45000
-LEADER:-8
-SHOWLEADER:1
+LEADER:-1
+SHOWLEADER:0
 TURNLEADER:0
-HISTORY_DOTS:5
+HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:21.00000
-TAGFAMILY:Matias (built in)
-WINDOWAREA:-28.338240:23.944067:-24.745621:31.324222
+TAGFAMILY:ATNS - TopSky
+WINDOWAREA:-28.003634:25.634698:-24.411014:33.052457

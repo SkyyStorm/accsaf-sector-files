@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\jonat\Documents\EuroScope\ACCSAF NEW NEW NEW\FASA-Package_20210913201643-210901-0001.sct
+SECTORTITLE:FASA-Package_20210913201643-210901-0001.sct
 Airports:FAEL:name
 Airports:FAEL:symbol
 Fixes:EGRAL:name
@@ -83,23 +83,6 @@ Runways:FAEL 11-29:extended centerline 2 right base
 Runways:FAEL 11-29:extended centerline 2 right ticks
 Runways:FAEL 11-29:extended centerline 2 right vectoring
 Runways:FAEL 11-29:name
-Stars:FAEL ILS11-Z:
-Stars:FAEL ILS11-Z ELV:
-Stars:FAEL ILS29:
-Stars:FAEL ILS29 ELV:
-Stars:FAEL RNAV11 ETMOT:
-Stars:FAEL RNAV11 IBMON:
-Stars:FAEL RNAV11 OBKUR:
-Stars:FAEL RNAV29:
-Stars:FAEL RNAV29 EGRAL:
-Stars:FAEL RNAV29 IMVAV:
-Stars:FAEL RNAV29 UTABU:
-Stars:FAEL VORDME11:
-Stars:FAEL VORDME11 ELV:
-Stars:FAEL VORDME29-Y:
-Stars:FAEL VORDME29-Y ELV:
-Stars:FAEL VORDME29-Z:
-Stars:FAEL VORDME29-Z ELV:
 VORs:ELV:frequency
 VORs:ELV:name
 VORs:ELV:symbol
@@ -116,4 +99,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:21.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-41.855380:2.175810:-16.212305:56.109016
+WINDOWAREA:-33.052190:27.796957:-33.026321:27.850921
