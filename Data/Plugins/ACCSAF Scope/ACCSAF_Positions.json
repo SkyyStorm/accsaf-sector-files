@@ -108,6 +108,7 @@
     { "callsign": "FVHF_CTR", "name": "Harare East Control" },
     { "callsign": "FXMM_APP", "name": "Maseru Approach" },
     { "callsign": "FXMM_TWR", "name": "Maseru Tower" },
-    { "callsign": "FYWH_CTR", "name": "Windhoek Radar" }
+    { "callsign": "FYWH_CTR", "name": "Windhoek Radar" },
+    { "callsign": "AFRS_FSS", "name": "Africa South Control" }
   ]
 }
