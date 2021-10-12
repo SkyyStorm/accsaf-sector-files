@@ -1,5 +1,5 @@
 # ACCSAF Sector Files
 
-## How To Use
+## About
 
-Download these files as a zip from the big green button. These files can now be placed straight into \Documents\Euroscope
+Open repo source for ACCSAF (A vACC under VATSSA on the VATSIM Network) Sector Files. We utilise this repo for community ideas/commits.
