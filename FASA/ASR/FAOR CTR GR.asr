@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\jonat\Documents\EuroScope\ACCSAF NEW NEW NEW\FASA-Package_20210903153920-210801-0003.sct
-SECTORTITLE:FASA-Package_20210903153920-210801-0003.sct
+SECTORFILE:
+SECTORTITLE:
 ARTCC boundary:FAOR-TMA:
 ARTCC high boundary:Airspace C FAOR CTA:
 ARTCC low boundary:FAOR-CTR:
