@@ -1,5 +1,5 @@
 DisplayTypeName:Ground Radar display
-DisplayTypeNeedRadarContent:1
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
@@ -97,5 +97,6 @@ TAGFAMILY:GRplugin
 WINDOWAREA:-34.011484:22.360176:-33.995926:22.392631
 PLUGIN:Ground Radar plugin:AirportElevation:640
 PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:FAGG
 PLUGIN:Ground Radar plugin:TowerMode:FAGG
 PLUGIN:TopSky plugin:NoDraw:1
