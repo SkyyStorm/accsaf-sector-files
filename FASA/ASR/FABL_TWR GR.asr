@@ -37,8 +37,9 @@ Free Text:FABL Taxiways\D:freetext
 Free Text:FABL Taxiways\E:freetext
 Free Text:FABL Taxiways\F:freetext
 Free Text:FABL Taxiways\G:freetext
-Geo:FABL Groundlayout:
+Geo:FABL Groundlayout (New):
 Geo:GEO:
+Regions:FABL Ground Layout:polygon
 Runways:FABL 02-20:centerline
 Runways:FABL 02-20:extended centerline 1
 Runways:FABL 02-20:extended centerline 1 left base
@@ -87,9 +88,9 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:21.00000
+DisplayRotation:0.00000
 TAGFAMILY:GRplugin
-WINDOWAREA:-29.099729:26.275690:-29.075386:26.326471
+WINDOWAREA:-29.109587:26.268779:-29.079158:26.333743
 PLUGIN:Ground Radar plugin:AirportElevation:4430
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FABL

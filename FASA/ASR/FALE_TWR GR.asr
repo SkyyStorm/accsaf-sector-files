@@ -76,9 +76,10 @@ Geo:FA Landmark Coast NE:
 Geo:FA Landmark Lakes:
 Geo:FAJA Landmark Dams:
 Geo:FAJA Landmark Lakes (AP):
-Geo:FALE Groundlayout:
+Geo:FALE Groundlayout (New):
 Geo:FAVG Groundlayout:
 Geo:GEO:
+Regions:FALE Ground Layout:polygon
 Runways:FALE 06-24:centerline
 Runways:FALE 06-24:extended centerline 1
 Runways:FALE 06-24:extended centerline 1 left base
@@ -106,10 +107,10 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:53.00000
+DisplayRotation:0.00000
 TAGFAMILY:GRplugin
-WINDOWAREA:-29.624612:31.076258:-29.589906:31.148657
-PLUGIN:Ground Radar plugin:AirportElevation:300
+WINDOWAREA:-29.627826:31.085278:-29.600061:31.144555
+PLUGIN:Ground Radar plugin:AirportElevation:310
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FALE
 PLUGIN:TopSky plugin:NoDraw:1
