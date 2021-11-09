@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\jonat\Documents\EuroScope\ACCSAF NEW NEW NEW\FASA-Package_20210913201643-210901-0001.sct
-SECTORTITLE:FASA-Package_20210913201643-210901-0001.sct
+SECTORFILE:
+SECTORTITLE:
 ARTCC boundary:FACT-TMA:
 ARTCC boundary:FAEL-TMA:
 ARTCC boundary:FAGG-TMA:
