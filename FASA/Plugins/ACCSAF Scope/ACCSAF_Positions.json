@@ -1,5 +1,6 @@
 {
   "positions": [
+    { "callsign": "FASA_CTR", "name": "South Africa Control" },
     { "callsign": "FABE_TWR", "name": "Bhisho Tower" },
     { "callsign": "FABL_APP", "name": "Bloemfontein Approach" },
     { "callsign": "FABL_TWR", "name": "Bloemfontein Tower" },
