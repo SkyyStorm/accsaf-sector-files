@@ -1,4 +1,4 @@
-DisplayTypeName:SMR radar display
+DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
@@ -100,3 +100,7 @@ DISABLEZOOMING:0
 DisplayRotation:21.00000
 TAGFAMILY:Matias (built in)
 WINDOWAREA:-33.052190:27.796957:-33.026321:27.850921
+PLUGIN:Ground Radar plugin:AirportElevation:435
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAEL
+PLUGIN:TopSky plugin:NoDraw:1
